@@ -1,0 +1,21 @@
+.vermelho {background-color: red;}
+
+.azul{background-color: blue;}
+
+.verde {background-color: green;}
+
+.amarelo {background-color: yellow;}
+
+#canto:hover {
+    background-color: blueviolet;
+border: 3px solid black;
+}  
+div{ 
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: -2px;
+}
+
+ div{border-color: azure;}
